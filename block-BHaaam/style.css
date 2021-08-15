@@ -1,0 +1,39 @@
+#tips{
+    background-color: lightslategray;
+}
+#workout{
+        color: lightsteelblue;
+    font-size: 80px;
+}
+#body{
+    background-color: mediumturquoise;
+}
+
+#lifeofgym{
+    color: lime;
+    font-size: 70px;
+}
+.model{
+    color: orchid;
+    
+}
+#gym-life{
+  background-color: lightskyblue
+}
+.maintain{
+    color: rgb(255, 1, 1);
+    font-size: larger;
+}
+.days{
+     color:black;
+     font-size: 20px;
+}
+.start{
+    color: black;
+    font-size: 20px;
+}
+#gym-good{
+    font-size: 40px;
+    font-family:  Georgia, Times, 'Times New Roman', serif;
+}
+
